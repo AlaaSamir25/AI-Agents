@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "page_url": "https://www.homedepot.com/p/DeLonghi-Magnifica-XS-Compact-Fully-Automatic-Black-and-Silver-Espresso-Machine-and-Cappuccino-Maker-ECAM22110SB/203246669",
+      "product_title": "DeLonghi Magnifica XS Compact Fully Automatic Black and Silver Espresso Machine and Cappuccino Maker",
+      "product_image_url": "https://images.thdstatic.com/productImages/71a0867f-7859-429a-ba7a-6c4f6f255299/svn/silver-black-delonghi-espresso-machines-ecam22110sb-64_600.jpg",
+      "product_url": "https://www.homedepot.com/p/DeLonghi-Magnifica-XS-Compact-Fully-Automatic-Black-and-Silver-Espresso-Machine-and-Cappuccino-Maker-ECAM22110SB/203246669",
+      "product_current_price": 999.95,
+      "product_original_price": None,
+      "product_discount_percentage": None,
+      "product_specs": [{
+        "specification_name": "Brewing Method",
+        "specification_value": "Automatic espresso machine offers consistent brewing at all times"
+      }, {
+        "specification_name": "Cup Capacity",
+        "specification_value": "Serves up to 2 cups of espresso or long coffee with single press"
+      }, {
+        "specification_name": "Grinder Settings",
+        "specification_value": "Grinder with 13 adjustable settings grinds fresh beans with ease"
+      }],
+      "agent_recommendation_rank": 3,
+      "agent_recommendation_notes": ["Compact and space-saving design.", "Easy to use with intuitive controls.", "Produces rich and flavorful espresso and cappuccino."]
+    },
+    {
+      "page_url": "https://www.pcrichard.com/breville-the-barista-express-espresso-machine-brushed-stainless-steel/BES870XL.html",
+      "product_title": "Breville The Barista Express Espresso Machine - Brushed Stainless Steel",
+      "product_image_url": "https://www.pcrichard.com/dw/image/v2/BFXM_PRD/on/demandware.static/-/Sites-pcrichard-master-product-catalog/default/dw655cc19b/images/hires/Z_BES870XL.jpg?sw=800&sh=800&sm=fit",
+      "product_url": "https://www.pcrichard.com/breville-the-barista-express-espresso-machine-brushed-stainless-steel/BES870XL.html",
+      "product_current_price": 699.95,
+      "product_original_price": None,
+      "product_discount_percentage": None,
+      "product_specs": [{
+        "specification_name": "Model",
+        "specification_value": "BES870XL"
+      }, {
+        "specification_name": "Customer Rating",
+        "specification_value": "4.6 out of 5 by 1383"
+      }, {
+        "specification_name": "Style",
+        "specification_value": "Counter Top"
+      }, {
+        "specification_name": "Pump Pressure",
+        "specification_value": "15 Bar Pump Pressure"
+      }, {
+        "specification_name": "Additional Features",
+        "specification_value": "Experience third-wave specialty coffee at home, made possible by the 4 keys formula, Auto grind & dose with an integrated conical burr grinder with 16 grind settings, Thermocoil heating system delivers 200 degreesF with PID temperature control, Low-pressure pre-infusion followed by 9 bar extraction"
+      }, {
+        "specification_name": "Dimensions",
+        "specification_value": "12.5 x 10.5 x 13.5 inches"
+      }, {
+        "specification_name": "Shipping Weight",
+        "specification_value": "25 lbs"
+      }, {
+        "specification_name": "Type",
+        "specification_value": "Espresso Machine"
+      }, {
+        "specification_name": "Color",
+        "specification_value": "Brushed Stainless Steel"
+      }, {
+        "specification_name": "Features",
+        "specification_value": "Grinder, Frother"
+      }, {
+        "specification_name": "Warranty",
+        "specification_value": "1 Year"
+      }],
+      "agent_recommendation_rank": 5,
+      "agent_recommendation_notes": ["High-quality espresso machine with integrated grinder.", "Offers precise temperature control and pressure for optimal extraction.", "User-friendly with interactive setup instructions.", "Highly rated by users for ease of use and quality of coffee.", "Durable and long-lasting with proper maintenance.", "Great value for money compared to coffee shop prices."]
+    },
+    {
+      "page_url": "https://www.walmart.com/ip/Gaggia-Classic-Pro-Espresso-Machine-Stainless-Steel/700045068",
+      "product_title": "Gaggia Classic Pro Espresso Machine | Stainless Steel",
+      "product_image_url": "https://i5.walmartimages.com/seo/Gaggia-Classic-Pro-Espresso-Machine-Stainless-Steel_62a5ea88-6b28-4cc0-8301-ad87e29e4a7d.0e2799bae7810d24359178115c4d32cc.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "product_url": "https://www.walmart.com/browse/0?facet=brand:Gaggia",
+      "product_current_price": 0.0,
+      "product_original_price": None,
+      "product_discount_percentage": None,
+      "product_specs": [{
+        "specification_name": "Material",
+        "specification_value": "Stainless Steel"
+      }, {
+        "specification_name": "Type",
+        "specification_value": "Espresso Machine"
+      }],
+      "agent_recommendation_rank": 1,
+      "agent_recommendation_notes": ["Classic and reliable espresso machine.", "Produces rich and flavorful espresso with a thick crema.", "Durable and long-lasting construction.", "Easy to use and maintain.", "Great value for money."]
+    }
+  ]
+}
