@@ -172,6 +172,5 @@ Install these packages via `requirements.txt`:
 - `scrapegraph_py`
 - `pydantic`
 
-## License
-
-MIT License
+## Final output Report
+![alt text](Coffee_machine_report.PNG)
